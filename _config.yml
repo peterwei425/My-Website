@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wei00157@umn.edu"
+      #url: "wei00157@umn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,6 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/peterwei425"
+    - label: "Linked-in"
+      icon: "fab fa-fww fa-linkedin-square"
+      url: "https://www.linkedin.com/in/boyang-wei/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -286,4 +289,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true 
+      author_profile: true
