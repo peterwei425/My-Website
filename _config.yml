@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Boyang Wei"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/SD1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minnesota, MN"
   email            :
@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/peterwei425"
     - label: "Linked-in"
-      icon: "fab fa-fww fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/boyang-wei/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
