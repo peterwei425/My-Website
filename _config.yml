@@ -96,7 +96,7 @@ author:
   name             : "Boyang Wei"
   avatar           : "images/me1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Minnesota, MN"
+  location         : "Minneapolis, MN"
   email            :
   links:
     - label: "Email"
@@ -279,7 +279,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
