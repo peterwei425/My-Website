@@ -1,0 +1,59 @@
+---
+title: "test"
+date: 2019-08-31
+tages: [machine learning, data science, neural network]
+header:
+  image: "/images/madison2.jpeg"
+excerpt: "Machine Learning, Perceptron, Data Science"
+mathjax: "true"
+---
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+Here's some basic text.
+
+And here's some *italics*
+Here's some **bold** text. (without spacing)
+
+What about a [link](https://github.com/peterwei425)
+
+Here's a bulleted list:
+* First item
++ Second item
+- Third item
+
+Here's a numbered list:
+1. First
+2. Second
+3. Third
+
+Python code block:
+```Python
+    import numpy as np
+
+    def test_function(x,y):
+      z = np.sum(x,y)
+      return z
+```
+
+R code block:
+```r
+library(tidyverse)
+df = read.csv("some_file.csv")
+
+```
+
+Here's some inline code `x+y`
+
+Here's an image:
+<img src="{{ site.url }}{{ site.baseurl }}/images/madison3.jpeg" alt="a photo of Liz">
+
+Here's some math:
+
+$$z=x+y$$
+
+You can also put it inline $$z=x+y$$
