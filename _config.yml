@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Boyang Wei"
-  avatar           : "images/me1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minneapolis, MN"
   email            :
