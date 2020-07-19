@@ -1,7 +1,7 @@
 ---
 title: "Resume Fraud Detection"
 date: 2019-08-20
-tags: [fraud detection, data science]
+tags: [Fraud Detection, Data Science]
 header:
   image: "/images/walk.jpg"
 excerpt: "Developed a resume fraud detection feature and created a resume scoring system"
@@ -14,4 +14,8 @@ As for this project, our group wanted to spot keyword stuffing by <b>detecting a
 
 In addition, I created a resume scoring system <b>which provides each resume (in a PDF format) with a relevancy score </b>based on job descriptions using NLTK and TIKA in Python. It mimics the algorithms of ATS system, and it is used to demostrate the effect of keyword stuffing. The code can be found [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/Resume_Scoring_System.ipynb). The subset of data used, which contains 78 resume samples can be accessed [here](https://github.com/peterwei425/Resume-Fraud-Detection/blob/master/resume_samples.zip).
 
+Team: Boyang Wei, Elizabeth Zhu, Leo Xiong, Lin Xu, Yili Yu, Yuankun Huang
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/resume_group_photo.jpeg" alt="My team">
+
+Location: Minneapolis, MN
